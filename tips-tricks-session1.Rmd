@@ -130,9 +130,17 @@ class: center, middle
 
 # Thank you!
 
-Slides can be viewed at https://ecohealthalliance.github.io/xlsform/tips-tricks-session1.html or PDF version downloaded at https://ecohealthalliance.github.io/xlsform/xlsform_tips_tricks_sesion1.pdf
+Slides can be viewed at    
 
-R scripts for slides available at https://github.com/ecohealthalliance/xlsform
+https://ecohealthalliance.github.io/xlsform/tips-tricks-session1.html    
+
+or PDF version downloaded at     
+
+https://ecohealthalliance.github.io/xlsform/xlsform_tips_tricks_session1.pdf
+
+R scripts for slides available at    
+
+https://github.com/ecohealthalliance/xlsform
 
 XLSForm used for this talk is [here](https://docs.google.com/spreadsheets/d/1-u3ogfGSWbcb1m9yduWyXgXx9WTCAl56Mk8vMl9w_GY/edit?usp=sharing)
 
